@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.tablePage{
+    height: 30%;
+    width: 90%;
+    margin-top: 80px;
+    margin-left: 70px;
+}
+
+th{
+    font-size: 20px;
+    font-family: 'Montserrat';
+    border-bottom: 2px solid rgb(179, 161, 161);
+}
+
+.uil-edit{
+    font-size: 18px;
+    color: rgb(26, 99, 32);
+    margin-left:3px ;
+}
+
+.uil-trash-alt{
+    font-size: 18px;
+    color: rgb(155, 51, 51);
+    margin-left:65px ;
+}
+
+.text{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

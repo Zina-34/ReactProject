@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.homePage{
+    font-family: 'Montserrat', sans-serif;
+}
+
+sup{
+    color: red;
+}
+
+
+.createUser{
+    font-family:'Courier New', Courier, monospace;
+    color: rgb(158, 157, 157);
+    justify-content: center;
+    display: flex;
+    margin-top: 5px;
+}
+
+.formHome{
+    padding: 8px;
+    margin-top: 15px;
+    height: 70vh;
+    width:80%;
+    position: absolute;
+    margin-left: 20vh;
+    box-shadow: 0px 0px 10px 2px rgb(134, 133, 133) ;
+    border-radius: 8px;
+    border-bottom: none;
+}
+
+.addressForm{
+    display: flex;
+    margin-top: 10px;
+    gap: 22px;
+}
+
+.addForm{
+    width: 39vh;
+
+}
+
+.submitHome{
+    margin-top: 15px;
+    
+}
+
+.alertHome{
+    height: 40px;
+    font-size: 15px;
+    background-color: rgb(97, 172, 97);
+    width: 130vh;
+    margin-top: 12px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin-left: 18vh;
+}
+
+.alert{
+    margin: -9px;
+    color: aliceblue;
+}

@@ -1,0 +1,20 @@
+.profilesAll{
+    border: 2px solid black;
+    margin-top: 9px;
+    height:85vh;
+    width: 150vh;
+    position: relative;
+    left: 20vh;
+}
+
+.profilesPage{
+    height: 200px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 60vh;
+    justify-content: center;
+    margin-top: 20px;
+
+}
